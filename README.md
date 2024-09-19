@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">My name is Surya Aji and I'm a Tech Enthusiast, from Indonesia</p>
-
-###
-
-<h2 align="left">🧑🏻‍💻About me:</h2>
-
-###
-
-<p align="left">✨ I'm a fullstack javascript developer that have built a few projects by myself and some with a team. Have background as lecturer and administrator. Interest to learn new knowledge, experience, and skills for self-development. <br/> let's make something amazing together! 📚</p>
+<p align="left">✨ My name is Surya Aji and I'm a Tech Enthusiast, from Indonesia. I'm a fullstack javascript developer that have built a few projects by myself and some with a team. Have background as lecturer and administrator. Interest to learn new knowledge, experience, and skills for self-development. let's make something amazing together! 📚</p>
 
 ###
 
