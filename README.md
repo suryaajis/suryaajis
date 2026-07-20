@@ -1,113 +1,86 @@
-<h1 align="left">Hello there, 👋</h1>
+<h1 align="center">Hi there, I'm Surya Aji 👋</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA6DA&center=true&vCenter=true&width=560&lines=Fullstack+JavaScript+Developer;Ex-Lecturer+%26+Administrator;Building+things+for+the+web+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
-<p align="left">✨ My name is Surya Aji and I'm a Tech Enthusiast, from Indonesia. I'm a fullstack javascript developer that have built a few projects by myself and some with a team. Have background as lecturer and administrator. Interest to learn new knowledge, experience, and skills for self-development. let's make something amazing together! 📚</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suryaajis&color=2EA6DA&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/suryaas/"><img src="https://img.shields.io/badge/LinkedIn-suryaas-2EA6DA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/suryaaji.s/"><img src="https://img.shields.io/badge/Instagram-suryaaji.s-2EA6DA?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-###
+---
 
-<h2 align="left">📊 GitHub Stats:</h2>
+### 👨‍💻 About Me
 
-###
+- ✨ Tech enthusiast based in **Indonesia**
+- 💼 Fullstack JavaScript developer — I've shipped projects solo and as part of a team
+- 🎓 Background as a **lecturer and administrator** before moving into software development
+- 📚 Always looking to pick up new knowledge, tools, and skills
+- 🤝 Open to collaborating on projects — let's build something amazing together!
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaajis&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="streak graph"  />
-</div>
+---
 
-###
+### 🛠️ Tech Stack
 
-<h2 align="left">💻 I code with:</h2>
+**Languages**
 
-###
+<img src="https://skillicons.dev/icons?i=js,ts,java,php,py,cs" height="42" alt="languages" />
 
-###
+**Frameworks & Backend**
 
-<h4 align="left">📝Languages:</h2>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,nestjs,laravel" height="42" alt="frameworks" />
 
-###
+**Databases, Infra & Messaging**
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
-</div>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws,docker,rabbitmq,redis" height="42" alt="infra" />
 
-###
+**Tools**
 
-<h4 align="left">📦 Tech:</h2>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio,git,github" height="42" alt="tools" />
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-</div>
+### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryaajis&show_icons=true&theme=nord&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaajis&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top languages" />
+</p>
 
-<h4 align="left">🛠️ Tools:</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaajis&theme=nord&hide_border=true" alt="GitHub streak" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-</div>
+### 📌 Featured Projects
 
-###
+> Swap the `repo=` value below for the repos you're proudest of — these cards pull live stats from GitHub.
 
-<h2 align="left">🌐 Socials:</h2>
+<p align="center">
+  <a href="https://github.com/suryaajis/golang-web-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaajis&repo=golang-web-api&theme=nord&hide_border=true" alt="Repo card" />
+  </a>
+  <a href="https://github.com/suryaajis/challenge-ejs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaajis&repo=challenge-ejs&theme=nord&hide_border=true" alt="Repo card" />
+  </a>
+</p>
 
-###
+*(Tip: pin your best repos from your [GitHub profile settings](https://github.com/suryaajis?tab=repositories) and swap these two cards for those.)*
 
-<div align="left">
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/suryaas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/suryaaji.s/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="45" alt="instagram logo" />
   </a>
-</div>
-<br/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=suryaajis&color=green)
+<p align="center"><i>Thanks for stopping by — feel free to reach out! 🚀</i></p>
